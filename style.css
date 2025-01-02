@@ -20,6 +20,7 @@ body{
     overflow: hidden;
     background:linear-gradient(to right, #E0F7FA, #B3F5FC);
     margin-bottom: 15px;
+    margin-top:8px;
 }
 
 .card{
