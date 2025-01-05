@@ -52,7 +52,6 @@ body{
 }
 
 .quote{
-    height:100px;
     width:90vw;
     border-left:10px solid rgba(96, 96, 68, 0.8);
     background:rgba(255,255,0,0.2);
