@@ -1,6 +1,6 @@
 body{
     margin:0;
-    background:linear-gradient(to bottom, #E0F7FA, #B3E5FC);
+    background:linear-gradient(to right, #E0F7FA, #B3E5FC);
     height:100vh;
     font-family: 'Arial', sans-serif;
     color:#000;
@@ -63,9 +63,9 @@ body{
 
 .footer{
     position:fixed;
-    bottom:0px;
     margin-top: 20px;
     right:25px;
+    bottom:0px;
 }
 
 a{
